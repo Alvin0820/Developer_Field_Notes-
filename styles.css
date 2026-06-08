@@ -1,0 +1,15 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--text-dark);
+  background-color: var(--bg-light);
+  padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+section{
+    margin-bottom: 20px;
+}
